@@ -1,4 +1,4 @@
-![Dynamic logo](/assets/svg/icon-secondary.svg)
+![Dynamic logo](/assets/svg/logo-primary.png)
 
 # DynamicSDK Admin Operations CLI
 
